@@ -1,2 +1,3 @@
 second commit added this file
-third commit added from diff machine and differnt line can be merged
+changed the 3rd commit line to clash lets . this is the 4t commit
+third commit added from diff machine and differnt line can be merged 
